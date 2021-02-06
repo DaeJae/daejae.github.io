@@ -3,7 +3,7 @@ title: "포스팅 테스트"
 except: "이것은 포스팅인가? 뭔지 알아보자"
 
 categories:
-    - [Blog, Post, Github]
+    - Blog
 
 tags:
     - [Blog, jekyll,Github, Git, VS]
